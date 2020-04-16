@@ -1,4 +1,3 @@
 
 *.csv
-*checkpoint.ipynb
-.ipynb_checkpoints/SNN_pytorch-checkpoint.ipynb
+.ipynb_checkpoints/*
